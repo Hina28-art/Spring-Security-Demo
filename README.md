@@ -6,6 +6,7 @@ The Spring Security Demo demonstrates how to secure a Spring Boot application us
 
 # Database
 Mysql is used as a database.
+
 <img width="326" alt="{54BC848A-36BC-49F2-9F50-1201562A3E2A}" src="https://github.com/user-attachments/assets/dce7c89c-ae58-4bc2-ae06-592d86c0c372">
 
 
